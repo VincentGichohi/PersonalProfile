@@ -37,7 +37,7 @@ $(document).ready(function() {
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Front End Developer", "Data Analyst", "Back End Developer", "Mobile App Developer"],
+        strings: ["Front End Developer", "Data Analyst", "Back End Python Django Developer", "Android Developer", "Database Administrator", "Javascript Full Stack Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
