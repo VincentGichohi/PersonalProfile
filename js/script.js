@@ -31,7 +31,7 @@ $(document).ready(function() {
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Full Stack Software Developer", "Android Developer", "Data Analyst", "DevOps"],
+        strings: ["Full Stack Software Developer", "Android Developer", "Data Analyst", "DevOps, Database Administrator"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
